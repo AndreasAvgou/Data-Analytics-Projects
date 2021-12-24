@@ -1,2 +1,2 @@
-# Case Study 1
+# Case Study
 ### Bike-Share Navigate Speedy Success
