@@ -1,1 +1,3 @@
-# Case Study 4 : Stock Data Analysis
+# Case Study 
+### Stock Analysis using Financial Data
+
