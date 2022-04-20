@@ -5,3 +5,5 @@
 ## Case Study 2 : [Bellabeat Data Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%202)
 
 ## Case Study 3 : [Covid-19 Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%203)
+
+## Case Study 4 : [Stock Data Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%204)
