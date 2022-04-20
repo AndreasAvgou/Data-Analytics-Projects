@@ -1,4 +1,5 @@
 # Data Analytics Projects
+Summary of all data analytics projects that i made
 
 ## Case Study 1 : [Bike-Share Navigate Speedy Success](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%201)
 
