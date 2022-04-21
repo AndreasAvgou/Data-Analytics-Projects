@@ -1,10 +1,10 @@
 # Data Analytics Projects
 Summary of all data analytics projects that i made
 
-1) [Bike-Share Navigate Speedy Success](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%201)
+1) [Bike-Share Navigate Speedy Success](https://github.com/AndreasAvgou/Bike-Share-Navigate-Speedy-Success)
 
-2) [Bellabeat Data Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%202)
+2) [Bellabeat Data Analysis](https://github.com/AndreasAvgou/Bellabeat-Data-Analysis)
 
-3) [Covid-19 Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%203)
+3) [Covid-19 Analysis](https://github.com/AndreasAvgou/Covid-19-Data-Analysis)
 
-4) [Stock Data Analysis](https://github.com/AndreasAvgou/Data-Analytics-Projects/tree/main/Case%20Study%204)
+4) [Stock Data Analysis](https://github.com/AndreasAvgou/Stock-Data-Analysis)
