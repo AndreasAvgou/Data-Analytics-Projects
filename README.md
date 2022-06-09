@@ -8,3 +8,7 @@ Summary of all data analytics projects that i made
 3) [Covid-19 Analysis(2020-02-20 - 2022-02-21)](https://github.com/AndreasAvgou/Covid-19-Data-Analysis)
 
 4) [Μovies and TV shows Data Analysis](https://github.com/AndreasAvgou/Movies-and-TV-shows-Data-Analysis)
+
+5) [Bike Sales](https://github.com/AndreasAvgou/Bike-Sales)
+
+
