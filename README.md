@@ -5,7 +5,7 @@ Summary of all data analytics projects that i made
 
 2) [Bellabeat Data Analysis](https://github.com/AndreasAvgou/Bellabeat-Data-Analysis)
 
-3) [Covid-19 Analysis](https://github.com/AndreasAvgou/Covid-19-Data-Analysis)
+3) [Covid-19 Data Analysis](https://github.com/AndreasAvgou/Covid-19-Data-Analysis)
 
 4) [Μovies and TV shows Data Analysis](https://github.com/AndreasAvgou/Movies-and-TV-shows-Data-Analysis)
 
