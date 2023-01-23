@@ -11,4 +11,6 @@ Summary of all data analytics projects that i made
 
 5) [Bike Sales](https://github.com/AndreasAvgou/Bike-Sales)
 
+6) [Employee Performance](https://www.novypro.com/project/emp)
+
 
