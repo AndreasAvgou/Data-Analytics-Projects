@@ -12,6 +12,7 @@ Summary of all data analytics projects that i made
 5) [Sales Analysis](https://www.novypro.com/project/sales-30)
 
 6) [Profile Sales Analysis (2016-2019)](https://public.tableau.com/app/profile/andreas.avgoustis/viz/Train_16694120887110/Dashboard1)
+7) [Stack Overflow Developer Survey 2023](https://github.com/AndreasAvgou/Stack-Overflow-Developer-Survey-2023/tree/main)
 <!---
 1) [Bike-Share Navigate Speedy Success](https://github.com/AndreasAvgou/Bike-Share-Navigate-Speedy-Success)
 
